@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kiruikiprotich/single_page_app/static/css/main.a10cb4b9.chunk.css",
+    "main.js": "/kiruikiprotich/single_page_app/static/js/main.e493f49d.chunk.js",
+    "main.js.map": "/kiruikiprotich/single_page_app/static/js/main.e493f49d.chunk.js.map",
+    "runtime-main.js": "/kiruikiprotich/single_page_app/static/js/runtime-main.3103a026.js",
+    "runtime-main.js.map": "/kiruikiprotich/single_page_app/static/js/runtime-main.3103a026.js.map",
+    "static/js/2.3977c327.chunk.js": "/kiruikiprotich/single_page_app/static/js/2.3977c327.chunk.js",
+    "static/js/2.3977c327.chunk.js.map": "/kiruikiprotich/single_page_app/static/js/2.3977c327.chunk.js.map",
+    "static/js/3.12338f5b.chunk.js": "/kiruikiprotich/single_page_app/static/js/3.12338f5b.chunk.js",
+    "static/js/3.12338f5b.chunk.js.map": "/kiruikiprotich/single_page_app/static/js/3.12338f5b.chunk.js.map",
+    "index.html": "/kiruikiprotich/single_page_app/index.html",
+    "static/css/main.a10cb4b9.chunk.css.map": "/kiruikiprotich/single_page_app/static/css/main.a10cb4b9.chunk.css.map",
+    "static/js/2.3977c327.chunk.js.LICENSE.txt": "/kiruikiprotich/single_page_app/static/js/2.3977c327.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3103a026.js",
+    "static/js/2.3977c327.chunk.js",
+    "static/css/main.a10cb4b9.chunk.css",
+    "static/js/main.e493f49d.chunk.js"
+  ]
+}
